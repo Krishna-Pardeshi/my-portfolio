@@ -639,7 +639,7 @@ const App = () => {
             <div className="footer-brand">
               <div className="brand-icon">KP</div>
               <div className="footer-text">
-                <p>&copy; 2024 Krishna Pardeshi</p>
+                <p>&copy; 2025 Krishna Pardeshi</p>
                 <p>Crafted with passion & modern technology</p>
               </div>
             </div>
