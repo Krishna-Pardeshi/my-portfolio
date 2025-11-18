@@ -74,7 +74,7 @@ const App = () => {
 
   // Skills data
   const skills = [
-    { name: "React.js", level: 95, category: "Frontend", icon: "⚛️", color: "#61DAFB" },
+    { name: "React.js", level: 94, category: "Frontend", icon: "⚛️", color: "#61DAFB" },
     { name: "Node.js", level: 90, category: "Backend", icon: "🟢", color: "#68A063" },
     { name: "JavaScript", level: 98, category: "Language", icon: "🟨", color: "#F7DF1E" },
     // { name: "Python", level: 80, category: "Language", icon: "🐍", color: "#3776AB" },
